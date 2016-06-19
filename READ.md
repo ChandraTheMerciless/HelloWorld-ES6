@@ -1,5 +1,5 @@
-npm install
-npm run build
+- npm install
+- npm run build
 
-Sources:
+#Sources:
 https://docs.npmjs.com/misc/scripts
