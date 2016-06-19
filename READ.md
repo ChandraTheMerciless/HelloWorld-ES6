@@ -6,4 +6,4 @@ This is closely based off the example we did in class, that Scott led us through
 - npm run build
 
 #Sources:
-https://docs.npmjs.com/misc/scripts
+- https://docs.npmjs.com/misc/scripts
